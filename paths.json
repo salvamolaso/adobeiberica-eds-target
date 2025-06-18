@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/salva-demo/:/",
-    "/content/salva-demo/metadata.json:/metadata.json",
-    "/content/salva-demo/redirects.json:/redirects.json",
-    "/content/salva-demo/configuration.json:/configuration.json"
+    "/content/iberostar/:/",
+    "/content/iberostar/metadata.json:/metadata.json",
+    "/content/iberostar/redirects.json:/redirects.json",
+    "/content/iberostar/configuration.json:/configuration.json"
   ]
 }
